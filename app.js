@@ -1,2 +1,2 @@
-var name = "janu";
-console.log(name);
+// var name = "janu";
+// console.log(name);
